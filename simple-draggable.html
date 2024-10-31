@@ -1,0 +1,161 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moving Bodies dragable</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+    <div class="cards-container" id="cardsContainer"></div>
+    <button class="refresh-button" onclick="refreshWords()">↻</button>
+    <script>
+        const wordList = [ "minimal",
+  "elegant",
+  "complexity",
+  "slow",
+  "bouncing",
+  "rolling",
+  "growing",
+  "stretching",
+  "melting",
+  "shaking",
+  "floating",
+  "falling",
+  "space",
+  "gravity",
+  "ground",
+  "wave",
+  "chaos",
+  "energy",
+  "silence",
+  "fire",
+  "time",
+  "slime",
+  "infinite",
+  "acceleration",
+  "flow",
+  "explosion",
+  "breath",
+  "rotation",
+  "interaction",
+  "circulation",
+  "mutation",
+  "vibration",
+  "microscopic",
+  "elastic",
+  "gigantic",
+  "jelly",
+  "soft",
+  "low",
+  "open",
+  "hot",
+  "organic",
+  "unstable",
+  "loop",
+  "fluid",
+  "curved",
+  "solid",
+  "outrageous",
+  "air",
+  "tension",
+  "messy",
+  "wild",
+  "furry",
+  "stability",
+  "inwards",
+  "outwards",
+  "delicate",
+  "juicy",
+  "wiggling",
+  "earth",
+  "high",
+  "expansion",
+  "touch",
+  "rhythmic",
+  "random",
+  "sliding",
+  "oscilation",
+  "spiral",
+  "equilibrium",
+  "circle",
+  "triangle",
+  "sphere",
+  "near",
+  "remote",
+  "entangled",
+  "structure"
+];
+
+        function getRandomWords(list, count) {
+            return [...list]
+                .sort(() => Math.random() - 0.5)
+                .slice(0, count);
+        }
+
+        function createCard(word) {
+            const card = document.createElement('div');
+            card.className = 'card';
+            card.textContent = word;
+            card.draggable = true;
+            
+            card.addEventListener('dragstart', (e) => {
+                card.classList.add('dragging');
+            });
+            
+            card.addEventListener('dragend', (e) => {
+                card.classList.remove('dragging');
+            });
+            
+            return card;
+        }
+
+        function handleDragOver(e) {
+            e.preventDefault();
+            const container = document.getElementById('cardsContainer');
+            const draggingCard = container.querySelector('.dragging');
+            const cards = [...container.querySelectorAll('.card:not(.dragging)')];
+            
+            const afterCard = cards.reduce((closest, child) => {
+                const box = child.getBoundingClientRect();
+                const offset = e.clientX - (box.left + box.width / 2);
+                
+                if (offset < 0 && offset > closest.offset) {
+                    return { offset, element: child };
+                } else {
+                    return closest;
+                }
+            }, { offset: Number.NEGATIVE_INFINITY }).element;
+
+            if (afterCard) {
+                container.insertBefore(draggingCard, afterCard);
+            } else {
+                container.appendChild(draggingCard);
+            }
+        }
+
+        function displayWords() {
+            const container = document.getElementById('cardsContainer');
+            container.innerHTML = '';
+            
+            const words = getRandomWords(wordList, 3);
+            words.forEach(word => {
+                container.appendChild(createCard(word));
+            });
+        }
+
+        function refreshWords() {
+            displayWords();
+        }
+
+        // Initialize drag and drop handling
+        const container = document.getElementById('cardsContainer');
+        container.addEventListener('dragover', handleDragOver);
+
+        // Display initial words
+        displayWords();
+    </script>
+</body>
+</html>
