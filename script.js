@@ -72,6 +72,7 @@ const wordList = ["minimal",
             "remote",
             "entangled",
             "structure",
+<<<<<<< HEAD
             "tingling", 
             "pulsating", 
             "rippling", 
@@ -149,7 +150,10 @@ const wordList = ["minimal",
             "gentle",
             "diagonal",
             "periphery",
+<<<<<<< HEAD
+=======
             "central",
+>>>>>>> parent of c06f9ae (update)
             "center",
             "expansive",
             "infinitesimal",
@@ -157,6 +161,7 @@ const wordList = ["minimal",
             "luxurious",
             "precious",
             "harmonious"
+<<<<<<< HEAD
   ];
 =======
  const wordList = [ "minimal",
@@ -291,6 +296,9 @@ const wordList = ["minimal",
   "harmonious"
 ];
 >>>>>>> parent of a2a530c (update)
+=======
+        ];
+>>>>>>> parent of c06f9ae (update)
 
 function getRandomWords(list, count) {
 
