@@ -155,7 +155,6 @@ const wordList = ["minimal",
             "luxurious",
             "precious",
             "harmonious"
-
   ];
 
 function getRandomWords(list, count) {
