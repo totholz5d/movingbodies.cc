@@ -8,7 +8,6 @@ fetch('./wordList.txt')
             .split('\n')
             .filter(Boolean);  // Removes empty lines
         
-        console.log('Words from file:', words);
         // Initialize the display after words are loaded
         displayWords();
     })
