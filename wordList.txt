@@ -237,7 +237,6 @@ unhindered
 unlocking
 popping
 pop
-hoop
 hop
 bang
 shooting 
