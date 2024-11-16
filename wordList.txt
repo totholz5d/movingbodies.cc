@@ -115,7 +115,6 @@ endless
 intermittent
 balance
 perpetual
-effortless
 graceful
 elegance
 power
@@ -135,7 +134,6 @@ luminous
 emergent
 presence
 softness
-low
 simplicity
 weird
 radical
@@ -214,15 +212,14 @@ molten
 frozen
 nested
 recursive
-serpentine
 vortex
 ridiculous
 sensual
 bubble
 bounciness
 molecular
-attachement
-detachement
+attachment
+detachment
 detached
 membrane
 monumental
