@@ -96,7 +96,7 @@ body {
 @media (prefers-color-scheme: dark) {
     body {
       --background: black !important;
-      --foreground: pink !important;
+      --foreground: white !important;
     }
 }
 
