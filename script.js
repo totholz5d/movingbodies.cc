@@ -6,8 +6,11 @@ let words = [];  // Declare words globally
 
 // Update the fetch path to use language-specific wordlist
 
-fetch(`./words/wordList_${lang}.txt`)
+console.log('Words from file:', lang);
+
+fetch(`./wordList_${lang}.txt`)
     .then(response => response.text())
+    console.log('Words from file:', lang);
     .then(wordList => {
         words = wordList
             .trim()
