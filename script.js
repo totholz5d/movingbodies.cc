@@ -5,8 +5,13 @@ const lang = window.location.pathname.includes('/fr') ? 'fr' : 'en';
 let words = [];  // Declare words globally
 
 // Update the fetch path to use language-specific wordlist
-fetch(`./wordlist_${lang}.txt`)
-    .then(response => response.text())
+fetch(`wordlist_${lang}.txt`)
+
+    .then(response => {
+        console.log('Fetched file path:', response.url);
+        return response.text();
+    })
+
     .then(wordList => {
         words = wordList
             .trim()
