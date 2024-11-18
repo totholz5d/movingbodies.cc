@@ -1,11 +1,6 @@
-
-// Get the current language from the URL path
-const lang = window.location.pathname.includes('/fr') ? 'fr' : 'en';
-
 let words = [];  // Declare words globally
 
-// Update the fetch path to use language-specific wordlist
-fetch(`/words/wordlist_${lang}.txt`)
+fetch('./wordList.txt')
     .then(response => response.text())
     .then(wordList => {
         words = wordList
