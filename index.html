@@ -35,9 +35,42 @@
 
   <div class="cards-container" id="cardsContainer"></div>
     <div class="button-container">
-            <button class="refresh-button" onclick="refreshWords()">↻</button>
+            <button class="refresh-button">↻</button>
     </div>
 
-   <script src="./script.js"></script>
+
+    <div id="helpModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="language-switcher">en/<a href="https://movingbodies.cc/fr/">fr</a></div>
+                <span class="close-modal">&times;</span>
+            </div>
+            
+            <div class="modal-body">
+                Moving Bodies is a free tool for generating fresh ideas for dance and movement exploration. Made for all bodies and practices - from somatic practices to creative play and self-inquiry.
+                
+                <h2>Instructions</h2>
+                Click the ↻ button to refresh all words.
+                <h2>Tips</h2>
+                <ul>
+                    <li>Click on an individual word to reschuffle it separately.</li>
+                    <li>Drag the words to reorder them. (desktop only)</li>
+                </ul>
+            </div>
+
+            <div class="modal-footer">
+                <div class="footer-left">
+                    made by tothold5d
+                </div>
+                <div class="footer-right">
+                   <a href="mailto:contact@movingbodies.cc"> <img src="./mail.svg" alt="mail" class="invert"> </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <button class="modal-button">?</button>
+
+   <script src="script.js"></script>
 </body>
 </html>

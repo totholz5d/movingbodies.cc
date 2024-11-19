@@ -1,4 +1,3 @@
-
 // Get the current language from the URL path
 const lang = window.location.pathname.includes('/fr') ? 'fr' : 'en';
 
@@ -6,12 +5,10 @@ let words = [];  // Declare words globally
 
 // Update the fetch path to use language-specific wordlist
 fetch(`wordlist_${lang}.txt`)
-
     .then(response => {
         console.log('Fetched file path:', response.url);
         return response.text();
     })
-
     .then(wordList => {
         words = wordList
             .trim()
@@ -20,6 +17,8 @@ fetch(`wordlist_${lang}.txt`)
         
         // Initialize the display after words are loaded
         displayWords();
+        setupModal();
+        setupRefreshButton(); // Add this line
     })
     .catch(error => {
         console.error('Error reading file:', error.message);
@@ -93,12 +92,31 @@ function displayWords() {
     });
 }
 
-function refreshWords() {
-    displayWords();
+// Add this new function
+function setupRefreshButton() {
+    const refreshButton = document.querySelector('.refresh-button');
+    refreshButton.addEventListener('click', displayWords);
 }
 
 const container = document.getElementById('cardsContainer');
 container.addEventListener('dragover', handleDragOver);
 
-// Remove this line since we'll call displayWords() after fetching the words
-// displayWords();
+function setupModal() {
+    const modal = document.getElementById('helpModal');
+    const modalBtn = document.querySelector('.modal-button');
+    const closeBtn = document.querySelector('.close-modal');
+
+    modalBtn.onclick = () => {
+        modal.style.display = 'block';
+    };
+
+    closeBtn.onclick = () => {
+        modal.style.display = 'none';
+    };
+
+    window.onclick = (event) => {
+        if (event.target === modal) {
+            modal.style.display = 'none';
+        }
+    };
+}
