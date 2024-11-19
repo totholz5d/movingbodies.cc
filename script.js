@@ -106,6 +106,10 @@ function setupModal() {
     const modalBtn = document.querySelector('.modal-button');
     const closeBtn = document.querySelector('.close-modal');
 
+
+    // Set initial state to hidden
+    modal.style.display = 'none';  // Add this line
+
     modalBtn.onclick = () => {
         modal.style.display = 'block';
     };
