@@ -17,7 +17,6 @@ ouvrir
 fermer
 tordre
 voler
-sappuyer
 trancher
 continu
 saccadé
@@ -141,7 +140,6 @@ rigide
 mou
 juteux·se
 croustillant·e
-ouvert·e
 stable
 forme
 rapide
@@ -152,13 +150,10 @@ excentrique
 outrancier
 complexe
 circulaire
-lent
-lenteur
 organique
 sauvage
 enchevétré
 enchevètrement
-élegant·e
 chaud·e
 minimaliste
 instable
@@ -170,7 +165,6 @@ délicatesse
 minimal‧e
 élégant‧e
 complexité
-lent
 rebondissant
 désir
 roulant
@@ -204,7 +198,6 @@ gélatineux
 doux
 bas
 large
-chaud
 organique
 instable
 boucle
