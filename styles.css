@@ -94,15 +94,19 @@ body {
     position: fixed;
     right: 20px;
     bottom: 20px;
-    font-size: 30px;
+    font-size: 4vw;
+    font-weight: bold;
     width: 40px;
     height: 40px;
-    background: var(--background);
+    border-radius: 50%;
     color: var(--foreground);
     cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
+
+    background: transparent;
+    border: 0px;
 }
 
 
@@ -145,7 +149,7 @@ body {
     }
 
     .button-container {
-        bottom: 12vh;
+        bottom: 20vh;
     }
 
     .card.dragging {
@@ -168,6 +172,11 @@ body {
         margin: 30% auto;
         width: 90%;
     }
+
+    .modal-button {
+    font-size: 8vw;
+}
+
 }
 
 
