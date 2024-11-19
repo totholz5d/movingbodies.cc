@@ -2,9 +2,7 @@ silence
 écoulement
 fluide
 flux
-sol
 stabilité
-chaos
 énergie
 vide
 marcher
@@ -21,10 +19,8 @@ tordre
 voler
 sappuyer
 trancher
-fluide
 continu
 saccadé
-lourd
 léger
 tranchant
 sec
@@ -45,7 +41,6 @@ lent‧e
 discontinu
 aquatique
 aérien‧ne
-vide
 relation
 solide
 tension
@@ -54,9 +49,8 @@ rapidité
 lenteur
 douceur
 rugosité
-fludité
+fluidité
 saccade
-légèreté
 lourdeur
 viscosité
 lumière
@@ -73,7 +67,6 @@ muscle
 fascia
 regard
 respiration
-souffle
 effleurer
 caresser
 toucher
@@ -83,9 +76,6 @@ tirer
 céder
 frapper
 craquer
-silence
-écoulement
-flux
 liquide
 vortex
 sol
@@ -164,7 +154,6 @@ complexe
 circulaire
 lent
 lenteur
-solide
 organique
 sauvage
 enchevétré
@@ -193,10 +182,7 @@ flottant
 tombant
 espace
 gravité
-sol
 vague
-chaos
-énergie
 silence
 feu
 temps
@@ -205,7 +191,6 @@ infini
 accélération
 flux
 explosion
-souffle
 rotation
 interaction
 circulation
@@ -225,4 +210,3 @@ instable
 boucle
 fluide
 courbé
-solide
