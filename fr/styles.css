@@ -1,0 +1,293 @@
+body {
+    --background: pink;
+    --foreground: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: var(--background);
+    color: var(--foreground);;
+
+}
+
+
+/* WORDS */
+.word-container {
+    font-weight: bold;
+    padding: 2rem;
+}
+
+
+.cards-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 17vh;
+
+}
+
+.card {
+    padding: 20px;
+    border-radius: 20px;
+    border-style: solid;
+    border: 1px;
+    border-color: var(--background);
+    cursor: grab;
+    user-select: none;
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 5vw;
+    font-weight: bold;
+    transition: transform 0.8s;
+}
+
+
+
+.card:hover {
+    border-color: var(--foreground); !important;
+    border-style: solid;
+
+}
+
+.card:active {
+    cursor: grabbing !important;
+}
+
+.card.dragging {
+    opacity: 0.5;
+    transform: scale(0.5);
+}
+
+/* REFRESH BUTTON*/
+.refresh-button {
+    margin-top: 1.5rem;
+    padding: 0.5rem 1rem;
+    font-size: 9vh;
+    color : grey;
+    background-color: transparent;
+    border: 2px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.refresh-button:hover {
+  color: var(--foreground);
+}
+
+.button-container {
+  position: fixed;
+  left: 0;
+  bottom: 35vh;
+  width: 100%;
+  text-align: center;
+}
+
+.modal-button {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    font-size: 30px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid var(--foreground);
+    background: var(--background);
+    color: var(--foreground);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+/* DARK MODE */
+@media (prefers-color-scheme: dark) {
+    body {
+      --background: black !important;
+      --foreground: white !important;
+    }
+
+    img.invert {
+        filter: invert(1);
+    } 
+
+    .modal {
+    background-color: rgba(250, 250, 250, 0.6);
+}
+}
+
+
+/* PORTRAIT DEVICES */
+
+@media screen and (orientation:portrait) {
+
+    .card {
+        display: block;
+        font-size: 6vh !important;
+        text-align: center;
+
+    }
+
+
+
+    .cards-container {
+        clear: both;
+        display: table;
+        text-align: center;
+        width: 100%;
+    }
+
+    .button-container {
+        bottom: 12vh;
+    }
+
+    .card.dragging {
+        opacity: 1 !important;
+        transform: none !important;
+    }
+
+    .card:hover {
+        border-color: var(--background); !important;
+
+    }
+
+
+    .refresh-button {
+        color : var(--foreground) !important;
+       font-size: 7vh;
+    }
+
+    .modal-content {
+        margin: 30% auto;
+        width: 90%;
+    }
+}
+
+
+/* MODAL */
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+}
+
+.modal-content {
+    position: relative;
+    background-color: var(--background);
+    margin: 10vh auto;
+    border: 1px solid var(--foreground);
+    border-radius: 10px;
+    width: 90%;
+    max-width: 600px;
+    font-size: 1.2em;
+    display: flex;
+    flex-direction: column;
+    min-height: 400px; /* Ensure minimum height for the modal */
+}
+
+.modal-header {
+    position: relative;
+    padding-bottom: 50px;
+
+}
+
+
+.language-switcher {
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    font-size: 0.9em;
+    border-bottom: 1px solid var(--foreground);
+    border-right: 1px solid var(--foreground);
+    border-radius: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+}
+
+.close-modal {
+    position: absolute;
+    right: 5px;
+    top: 0px;
+    font-size: 42px;
+    cursor: pointer;
+    color: var(--foreground);
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+/* Modal Body */
+.modal-body {
+    padding: 30px 40px;
+    flex-grow: 1; /* Take up available space */
+}
+
+.modal-body p {
+    margin: 1em 0;
+    line-height: 1.6;
+}
+
+
+.modal-body{
+    height: 60vh;
+    overflow-y: auto;
+}
+
+
+.modal-dialog{
+    overflow-y: initial !important
+}
+
+
+/* Modal Footer */
+.modal-footer {
+    padding: 4px;
+    border-top: 1px solid var(--foreground);
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.7em;
+}
+
+.footer-right {
+    
+}
+
+
+.footer-right {
+    text-align: right;
+}
+
+
+.close-modal:hover {
+
+}
+
+/* Mobile adjustments */
+@media screen and (orientation:portrait) {
+
+
+    .version-box {
+        top: 15px;
+        right: 70px;
+        padding: 6px 12px;
+    }
+}
+
+
