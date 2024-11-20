@@ -15,6 +15,7 @@ ascendant
 assidu
 attentif
 aérien‧ne
+affaissement
 bas
 baveux
 boucle
@@ -69,6 +70,8 @@ enchevètrement
 enchevétré·e
 envoûtant·e
 erratique
+errer
+errance
 espace
 excentrique
 expansion
@@ -152,6 +155,7 @@ légèreté
 léthargique
 magnétique
 marcher
+méandres
 mesuré
 microscopique
 minimaliste
@@ -170,6 +174,7 @@ méthodique
 méticuleux
 nacré·e
 nonchalant
+nocturne
 nuage
 oblique
 obscurité
@@ -194,6 +199,7 @@ persévérant
 piquant‧e
 placide
 plein·e
+pliant·e
 pousser
 poussée
 preste

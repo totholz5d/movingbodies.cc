@@ -6,7 +6,7 @@ abundant
 acceleration
 adaptation
 adhesive
-adventurous
+adventure
 air
 alert
 all encompassing
@@ -20,8 +20,12 @@ anchoring
 ancient
 angular
 animated
-animated 
+animated
+encapsulation
+throwing
+encapsulating 
 arc
+peace
 ardent
 arms
 ascending
@@ -42,8 +46,6 @@ beat
 belly
 bending
 biggest
-bleed
-blood
 body
 bold
 boldness
@@ -85,6 +87,10 @@ comfy
 commitment
 compact
 compass
+confident
+hazardous
+risky
+precarious
 complete
 complexity
 compressed
@@ -125,7 +131,6 @@ deliberate
 delicate
 delineated
 dense
-depolarization
 depths
 desire
 detached
@@ -148,7 +153,6 @@ distortion
 distributed
 diving
 dominant
-door
 down
 drafting
 dreamlike
@@ -322,6 +326,8 @@ low
 luminous
 lunatic
 lush
+audacious
+brave
 luxurious
 magnetic
 malleable
@@ -342,6 +348,7 @@ moist
 molecular
 mollusk-like
 molten
+uncertain
 monumental
 more
 movement
@@ -363,13 +370,18 @@ nested
 network
 nimble
 node
+non-linear
 non-linearity
+non-binary
+non-binarity
 nucleus
 oblique
 obvious
+territory
 oceanic
 opaque
 orbit
+heroic
 organic
 organized
 organs
@@ -394,6 +406,7 @@ phlegmatic
 pivoting
 pixelated
 plain
+reckless
 play
 playfulness
 pleasant
@@ -420,6 +433,7 @@ pure
 purification
 purposeful
 pushing
+push
 quatuor
 quick
 quiet
@@ -477,7 +491,6 @@ sharp
 shell
 shooting 
 shoulders
-shouting
 shy
 silence
 silent
@@ -552,7 +565,6 @@ supreme
 sure
 surprising
 suspended
-svelte
 sweet
 swift
 swing
@@ -651,5 +663,5 @@ wild
 wobbly
 worm-like
 wrist
-yielding
+holding
 zigzag
