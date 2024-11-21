@@ -10,6 +10,7 @@ accroupi
 accélération
 adhérent‧e
 adhésif
+adjacent
 affaissement
 agile
 agilité
@@ -20,6 +21,7 @@ air
 aisé
 alangui
 alerte
+aligné‧e
 allumer
 altération
 aléatoire
@@ -43,6 +45,7 @@ articulations
 ascendant
 assidu‧e
 assimilation
+asymétrique
 attachement
 attentif
 attention
@@ -52,6 +55,7 @@ aura
 avant
 aventure
 axe
+axial‧e
 aérien‧ne
 balancement
 ballet
@@ -60,6 +64,7 @@ basique
 bassin
 battement
 baveux
+biaisé‧e
 bouclant
 boucle
 bouillonnant
@@ -85,6 +90,7 @@ captivant‧e
 caresser
 cascade
 cellulaire
+central‧e
 centre
 cercle
 cha-cha-cha
@@ -95,6 +101,8 @@ chatoyant·e
 chaud·e
 chemin
 chercher
+chevaucher
+chevauché‧e
 chute
 chuter
 circulaire
@@ -112,17 +120,21 @@ complexité
 compresser
 comprimer
 concentration
+concentrique
 confiant‧e
 confortable
 confusion
 confus‧e
 connection
+connecté‧e
 constant‧e
+contigu‧e
 continu‧e
 contorsion
 contracter
 contrôle
 contrôlé
+convergent‧e
 coordonné‧e
 coquille
 corps
@@ -153,6 +165,7 @@ derrière
 descendant
 devant
 diagonale
+diagonal‧e
 diaphragme
 diffusion
 discontinu‧e
@@ -162,7 +175,10 @@ dispersé‧e
 dissociation
 dissonant
 dissoudre
+distance
+distant
 distribué‧e
+divergent‧e
 docile
 doigts
 dominant‧e
@@ -176,11 +192,12 @@ début
 décharge
 déclin
 décomposition
+déconnecté‧e
 décontracté‧e
 défini‧e
 déformation
-déformé‧e
 déformer
+déformé‧e
 dégoulinant
 délicatesse
 délicat·e
@@ -203,6 +220,7 @@ elliptique
 encapsuler
 enchevètrement
 enchevétré·e
+enfermé‧e
 engagement
 englobant
 englober
@@ -299,7 +317,7 @@ hauteur
 heurter
 homogène
 horizon
-horizontal
+horizontale
 hospitalier
 humide
 hybridation
@@ -324,7 +342,6 @@ inclusif
 inconditionnel‧le
 incontrôlé‧e
 individuel‧le
-indolent‧e
 infatigable
 infini
 infinitésimal‧e
@@ -343,10 +360,13 @@ intention
 intentionel‧le
 intentionnel‧le
 interaction
+intercalé‧e
 interdépendance
 intermittent‧e
+intersection
 intime
 intégration
+intégré‧e
 intéraction
 intérieur
 intérieur‧e
@@ -359,6 +379,7 @@ jet
 jouer
 joyeux
 juteux
+juxtaposé‧e
 kaléidoscopique
 laborieux
 labyrinthique
@@ -370,9 +391,11 @@ lenteur
 lent‧e
 libération
 limace
+linéaire
 liquide
 lisse
 lisser
+loin
 lointain‧e
 lourdeur
 lourd·e
@@ -430,6 +453,7 @@ nacré·e
 naturel‧le
 naviguer
 nerfs
+niché‧e
 nid
 non-binaire
 non-binarité
@@ -455,6 +479,8 @@ ondulation
 ondulatoire
 onirique
 opaque
+opposition
+opposé‧e
 orbite
 organes
 organique
@@ -527,9 +553,11 @@ purifier
 pur‧e
 pâteux
 périphérie
+périphérique
 quatuor
 quelconque
 racines
+radial‧e
 radical‧e
 radieux
 raffinement
@@ -545,6 +573,7 @@ rebondissement
 recombinaison
 recombiner
 regard
+regroupé‧e
 relation
 relier
 remuement
@@ -632,6 +661,7 @@ soyeux
 spacieux
 spectaculaire
 sphère
+spiral
 spirale
 sporadique
 squelette
@@ -645,6 +675,7 @@ subtil·e
 suffisant‧e
 super
 superficiel‧le
+superposé‧e
 suprême
 surdimensionné‧e
 surnaturel‧le
@@ -654,6 +685,7 @@ suspendu‧e
 svelte
 symbiose
 symphonie
+symétrique
 synapse
 synchronisé‧e
 synthèse
@@ -724,7 +756,7 @@ vaste
 velouté·e
 ventre
 versatile
-vertical‧e
+verticale
 vertébres
 vibration
 vide
@@ -768,6 +800,7 @@ zigzager
 équilibré
 érosion
 érotique
+étalé‧e
 étincelant‧e
 étirement
 étirer
