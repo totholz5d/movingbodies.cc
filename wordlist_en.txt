@@ -12,6 +12,10 @@ alert
 all encompassing
 almost
 alteration
+beginning
+end
+ending
+dust
 altering
 ambitious
 ample
@@ -162,7 +166,6 @@ drip
 drumming
 duet
 dull
-dust
 easygoing
 echo
 efficient
