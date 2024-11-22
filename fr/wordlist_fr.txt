@@ -111,7 +111,7 @@ colonne
 combinaison
 combustion
 soin
-compact‧e
+compacte
 complet
 complexe
 complexité
@@ -119,7 +119,8 @@ compresser
 comprimer
 concentration
 concentrique
-confiant‧e
+confiant
+confiance
 confortable
 confusion
 confus
@@ -132,7 +133,8 @@ contorsion
 contracter
 contrôle
 contrôlé
-convergent‧e
+convergente
+converger
 coordonnée
 coquille
 corps
@@ -146,7 +148,7 @@ courage
 courageux
 courbe
 courbure
-courbé·e
+courbée
 courir
 craquer
 cristallin
@@ -219,7 +221,7 @@ elliptique
 encapsuler
 enchevètrement
 enchevétrée
-enfermé‧e
+enfermé
 engagement
 englobant
 englober
@@ -525,7 +527,7 @@ poussière
 poussée
 pouvoir
 presque
-pressant‧e
+pressant
 presser
 primordial
 proche
@@ -566,7 +568,7 @@ rebondissement
 recombinaison
 recombiner
 regard
-regroupé‧e
+regrouper
 relation
 relier
 remuement
@@ -574,21 +576,21 @@ remuer
 repousser
 reptilien
 respiration
-resplendissant‧e
+resplendissante
 ressort
 ridicule
 rigide
 risquée
 robuste
 rond
-rond‧e
+ronde
 rotation
-roulant‧e
+roulante
 roulement
 rouler
 rugeux
 rugosité
-ruisselant‧e
+ruisselante
 rythme
 rythmique
 réactif
@@ -600,7 +602,8 @@ réflexion
 régulier
 régénération
 réseau
-résilient‧e
+résiliente
+résilience
 résolue
 rétractable
 s'accrocher
@@ -627,7 +630,7 @@ sensuelle
 serein
 serpenter
 serpentin
-serré‧e
+serrer
 silence
 silencieux
 simple
@@ -680,7 +683,7 @@ symbiose
 symphonie
 symétrique
 synapse
-synchronisé‧e
+synchronisé
 synthèse
 systématique
 sérieux
@@ -733,6 +736,8 @@ trembler
 triangle
 tribu
 tunnel
+tube
+tubulaire
 téméraire
 tête
 tûmulte
@@ -743,7 +748,7 @@ urgente
 vacillant
 vague
 valse
-vaporeux
+vaporeuse
 vaste
 veloutée
 ventre
@@ -772,7 +777,7 @@ zigzager
 éblouissant
 échapper
 écho
-éclatant·e
+éclatante
 écoulement
 élancée
 élastique
