@@ -519,7 +519,6 @@ poignet
 pointue
 poitrine
 poreux
-portail
 positif
 pouls
 pousser
@@ -632,7 +631,8 @@ serpenter
 serpentin
 serrer
 silence
-silencieux
+silencieuse
+unisson
 simple
 simplicité
 sincère
