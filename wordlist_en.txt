@@ -15,7 +15,6 @@ aligned
 all encompassing
 almost
 alteration
-altering
 ambitious
 ample
 ancestral
@@ -47,7 +46,6 @@ beat
 beginning
 belly
 bending
-biggest
 body
 bold
 boldness
@@ -145,7 +143,6 @@ determined
 devotion
 diagonal
 diaphragm
-diffusing
 diffusion
 digestion
 discharge
@@ -388,7 +385,7 @@ near
 nearby
 nebulous
 neck
-negative
+inverted
 nerve
 nest
 nested
@@ -444,7 +441,6 @@ pop
 popping
 porous
 portal
-positive
 power
 precarious
 precious
@@ -538,6 +534,8 @@ sleek
 sliding
 slight
 slime
+melancholie 
+melancholic
 slimy
 slippery
 slow
@@ -553,7 +551,6 @@ soft
 softness
 solid
 solitary
-soul
 source
 space
 spacious
@@ -635,7 +632,6 @@ tight
 time
 tingling
 tissue
-tone
 torpid
 total
 touch

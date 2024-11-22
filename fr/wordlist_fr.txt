@@ -337,6 +337,7 @@ flottant
 flottement
 flotter
 flou
+mielleux
 fluide
 fluidité
 flux
@@ -346,6 +347,10 @@ focus
 fondant
 fondre
 fonte
+mélancolie
+mélancolique
+inversée
+inverse
 force
 forme
 formel
@@ -354,6 +359,7 @@ fossile
 fossiliser
 fourrure
 fracturé
+ßela
 fragile
 fragmentation
 frapper
@@ -550,6 +556,7 @@ muscle
 musculaire
 mutation
 mystérieux
+mystère
 mâchoire
 méandres
 mémoire
@@ -560,6 +567,7 @@ méticuleux
 nacrée
 naturelle
 naviguer
+navigation
 nerfs
 nichée
 nid
@@ -714,6 +722,8 @@ rebondir
 rebondissant
 rebondissement
 receuillir
+recherche
+rechercher
 recombinaison
 recombiner
 regard
@@ -912,7 +922,8 @@ transversal
 trapue
 traverser
 traîner
-tremblant
+tremblante
+tremblement
 trembler
 triangle
 tribu
