@@ -567,6 +567,8 @@ rebondissement
 recombinaison
 recombiner
 regard
+répéter
+répetition
 regrouper
 relation
 relier
@@ -595,7 +597,6 @@ rythmique
 réactif
 réaction
 réceptif
-récursif
 réduit
 réflexion
 régulier
