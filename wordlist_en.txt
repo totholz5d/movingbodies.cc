@@ -269,8 +269,8 @@ grasping
 gravity
 gripping
 ground
-grove
 growing
+groove
 hands
 harmonious
 harmony
@@ -456,13 +456,14 @@ pulling
 pulsating
 pulse
 pure
+caricature
 purification
 purposeful
 push
 pushing
-quatuor
 quick
 quiet
+ensemble
 radial
 radical
 random
@@ -579,7 +580,6 @@ sticky
 stiff
 still
 stillness
-stout
 strange
 stratified
 stream
@@ -645,7 +645,6 @@ transmutation
 transparent
 triangle
 tribe
-trio
 tunneling
 turn
 turning
