@@ -570,6 +570,7 @@ mouvement
 muet
 multi-fonction
 multiplier
+multiplication
 muqueuses
 murmure
 murmurer
@@ -744,6 +745,7 @@ rare
 rayon
 rayonner
 rebond
+recevoir
 rebondir
 rebondissant
 rebondissement
@@ -974,6 +976,7 @@ tête
 uni
 uniforme
 unisson
+union
 unité
 urgente
 vacillant
