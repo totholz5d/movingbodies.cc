@@ -1036,6 +1036,8 @@ zigzaguer
 élégante
 élémentaire
 émergence
+rouages
+contexte
 émergent
 énergie
 énergique
