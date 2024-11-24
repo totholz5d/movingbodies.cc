@@ -1,7 +1,8 @@
 // Get the current language from the URL path
 const lang = window.location.pathname.includes('/fr') ? 'fr' : 'en';
 
-let words = [];  // Declare words globally
+let words = [];  // Full word list
+let currentDeck = [];  // Current shuffled deck
 
 // Update the fetch path to use language-specific wordlist
 fetch(`wordlist_${lang}.txt`)
@@ -15,22 +16,33 @@ fetch(`wordlist_${lang}.txt`)
             .split('\n')
             .filter(Boolean);  // Removes empty lines
         
+        // Initialize the shuffled deck
+        currentDeck = [...words];
+        shuffleDeck();
+        
         // Initialize the display after words are loaded
         displayWords();
         setupModal();
-        setupRefreshButton(); // Add this line
+        setupRefreshButton();
     })
     .catch(error => {
         console.error('Error reading file:', error.message);
     });
 
-function getRandomWords(list, count) {
-    const array = [...list];
-    for (let i = 0; i < count; i++) {
-        const j = i + Math.floor(Math.random() * (array.length - i));
-        [array[i], array[j]] = [array[j], array[i]];
+function shuffleDeck() {
+    for (let i = currentDeck.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [currentDeck[i], currentDeck[j]] = [currentDeck[j], currentDeck[i]];
     }
-    return array.slice(0, count);
+}
+
+function getRandomWords(count) {
+    // If we don't have enough words left, reshuffle
+    if (currentDeck.length < count) {
+        currentDeck = [...words];
+        shuffleDeck();
+    }
+    return currentDeck.splice(0, count);
 }
 
 function createCard(word) {
@@ -40,10 +52,7 @@ function createCard(word) {
     card.draggable = true;
 
     card.addEventListener('click', () => {
-        const newWord = getRandomWords(
-            words.filter(w => w !== card.textContent),
-            1
-        )[0];
+        const newWord = getRandomWords(1)[0];
         card.textContent = newWord;
     });
 
@@ -57,6 +66,25 @@ function createCard(word) {
 
     return card;
 }
+
+function displayWords() {
+    const container = document.getElementById('cardsContainer');
+    container.innerHTML = '';
+
+    const count = Math.floor(Math.random() * 2) + 2;  // 2 or 3 words
+    const selectedWords = getRandomWords(count);
+    selectedWords.forEach(word => {
+        container.appendChild(createCard(word));
+    });
+}
+
+function setupRefreshButton() {
+    const refreshButton = document.querySelector('.refresh-button');
+    refreshButton.addEventListener('click', displayWords);
+}
+
+const container = document.getElementById('cardsContainer');
+container.addEventListener('dragover', handleDragOver);
 
 function handleDragOver(e) {
     e.preventDefault();
@@ -82,33 +110,12 @@ function handleDragOver(e) {
     }
 }
 
-function displayWords() {
-    const container = document.getElementById('cardsContainer');
-    container.innerHTML = '';
-
-    const selectedWords = getRandomWords(words, (Math.floor(Math.random() * 2) + 2));
-    selectedWords.forEach(word => {
-        container.appendChild(createCard(word));
-    });
-}
-
-// Add this new function
-function setupRefreshButton() {
-    const refreshButton = document.querySelector('.refresh-button');
-    refreshButton.addEventListener('click', displayWords);
-}
-
-const container = document.getElementById('cardsContainer');
-container.addEventListener('dragover', handleDragOver);
-
 function setupModal() {
     const modal = document.getElementById('helpModal');
     const modalBtn = document.querySelector('.modal-button');
     const closeBtn = document.querySelector('.close-modal');
 
-
-    // Set initial state to hidden
-    modal.style.display = 'none';  // Add this line
+    modal.style.display = 'none';
 
     modalBtn.onclick = () => {
         modal.style.display = 'block';
