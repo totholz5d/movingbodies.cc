@@ -16,11 +16,11 @@ fetch(`wordlist_${lang}.txt`)
             .split('\n')
             .filter(Boolean);  // Removes empty lines
         
-        // Initialize the shuffled deck
+        // Initialize shuffled deck
         currentDeck = [...words];
         shuffleDeck();
         
-        // Initialize the display after words are loaded
+        // Initialize display after words are loaded
         displayWords();
         setupModal();
         setupRefreshButton();
@@ -29,6 +29,7 @@ fetch(`wordlist_${lang}.txt`)
         console.error('Error reading file:', error.message);
     });
 
+// shuffling deck to avoid word repetitions
 function shuffleDeck() {
     for (let i = currentDeck.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -37,7 +38,7 @@ function shuffleDeck() {
 }
 
 function getRandomWords(count) {
-    // If we don't have enough words left, reshuffle
+    // reshuffle if we don't have enough words left
     if (currentDeck.length < count) {
         currentDeck = [...words];
         shuffleDeck();
