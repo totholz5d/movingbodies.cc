@@ -10,10 +10,18 @@ body {
     align-items: center;
     height: 100vh;
     background-color: var(--background);
-    color: var(--foreground);;
+    color: var(--foreground);
 
 }
 
+a {
+    text-decoration: underline;
+
+}
+
+a:visited {
+    color: var(--foreground);
+}
 
 /* WORDS */
 .word-container {
@@ -114,13 +122,17 @@ body {
 /* DARK MODE */
 @media (prefers-color-scheme: dark) {
     body {
-      --background: black !important;
-      --foreground: white !important;
+      --background: rgb(15, 17, 18) !important;
+      --foreground: rgb(241, 238, 231) !important;
     }
 
-    img.invert {
+    img {
         filter: invert(1);
     } 
+
+    a:hover {
+        color: rgb(67, 133, 190) ;
+    }
 
     .modal {
     background-color: rgba(250, 250, 250, 0.6);
