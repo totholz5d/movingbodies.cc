@@ -41,6 +41,7 @@ ancrage
 ancrer
 angulaire
 animée
+incompréhensible
 apathique
 apparition
 appel
@@ -48,6 +49,8 @@ appliquée
 approfondir
 appui
 aquatique
+se cacher
+dissimuler
 aqueux
 arc
 architecture
@@ -125,6 +128,7 @@ centre
 cercle
 cha-cha-cha
 chair
+chaleur
 changement
 changer
 chaos
@@ -147,6 +151,8 @@ colonne
 combinaison
 combustion
 commencement
+commentaire
+commenter
 compacte
 complet
 complexe
@@ -216,6 +222,7 @@ derrière
 descendant
 devant
 diagonale
+diapason
 diaphragme
 diffusion
 digression
@@ -293,6 +300,7 @@ enchaîner
 enchevêtrement
 enchevêtrée
 encore
+energie
 enfermé
 engagement
 englobant
@@ -311,6 +319,7 @@ essence
 essentielle
 excaver
 excentrique
+excès 
 exigu
 expansif
 expansion
@@ -368,6 +377,8 @@ fragile
 fragmentation
 frapper
 friable
+friction
+frictionner
 fulgurante
 furtif
 fusion
@@ -430,6 +441,8 @@ impulsion
 impénétrable
 inactivité
 inadapté
+incandescence
+incandescente
 incertain
 inclinaison
 incliner
@@ -575,7 +588,7 @@ méthode
 méthodique
 méticuleux
 nacrée
-naturelle
+naturel
 navigation
 naviguer
 nerfs
@@ -672,6 +685,7 @@ poil
 pointue
 poitrine
 poli
+polymorphe
 poreux
 porter
 positif
@@ -803,6 +817,7 @@ scintillant
 se déplier
 se dérouler
 se répandre
+se tortiller
 sec
 secouer
 secousses
@@ -908,9 +923,10 @@ tomber
 tonicité
 tonus
 tordre
+tordue
 torsade
 torsion
-tortillant
+tortillement
 tortueux
 total
 toucher
@@ -945,6 +961,7 @@ tremblement
 trembler
 triangle
 tribu
+trop
 trou
 tube
 tubulaire
@@ -1030,7 +1047,7 @@ zigzaguer
 érotique
 étalée
 étendre
-étincelant
+étincelante
 étirement
 étirer
 étrange
