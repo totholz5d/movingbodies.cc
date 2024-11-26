@@ -20,6 +20,11 @@ adhérente
 adhésif
 adjacent
 affaissement
+inhalation
+expiration
+expirer
+inspiration
+inspirer
 agile
 agilité
 agité
