@@ -715,6 +715,11 @@ précision
 présence
 présent
 prévisible
+envisageable
+se réapproprier
+s'approprier
+appropriation
+réappropriation
 pubis
 puissance
 pulsation
@@ -728,6 +733,10 @@ périphérique
 quart
 quelconque
 question
+visible
+invisible
+visibilité
+décortiquer
 questionner
 quête
 racines

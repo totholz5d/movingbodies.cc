@@ -143,6 +143,8 @@ chance
 change
 changing
 channel
+claiming
+reclaiming
 channeling
 chaos
 chest
@@ -207,7 +209,6 @@ coordinated
 coordinates
 coordinating
 coordination
-copy
 copying
 core
 corrosion
@@ -256,7 +257,6 @@ deconstructing
 deconstruction
 dedication
 deep
-deepen
 deepening
 defined
 deformation
@@ -283,7 +283,6 @@ diaphragm
 diffusing
 diffusion
 digesting
-digestion
 digression
 dimension
 direct
@@ -313,10 +312,11 @@ distant
 distorted
 distortion
 distributed
-distributing
 distribution
 divergent
 diverging
+diverse
+diversity
 diving
 docile
 dominant
@@ -443,8 +443,6 @@ flowing
 fluffy
 fluid
 fluidity
-flutter
-flying
 focus
 focussing
 fog
@@ -455,8 +453,7 @@ form
 formal
 formless
 forward
-fossil
-fossilize
+fossilized
 fountain
 fractured
 fragile
@@ -539,7 +536,6 @@ hovering
 hub
 humming
 hybrid
-hybridization
 hyper
 hypnotic
 ignition
@@ -603,8 +599,6 @@ irrational
 jaw
 jazz
 jelly
-jerking
-joinning
 joints
 journey
 joyful
@@ -698,7 +692,7 @@ mollusk-like
 molten
 monstrous
 monumental
-moody
+mood
 more
 mouth
 movement
@@ -777,7 +771,6 @@ parallel
 parenthesis
 particle
 passage
-passing
 passionate
 passive
 passivity
@@ -855,7 +848,6 @@ pulsation
 pulse
 pure
 purification
-purify
 purposeful
 push
 pushing
@@ -876,7 +868,6 @@ reaching
 reacting
 reaction
 reactive
-read
 receiving
 receptive
 reckless
@@ -1098,7 +1089,6 @@ synthesis
 syrupy
 systematic
 tactile
-tame
 tangential
 tangled
 tango
@@ -1186,7 +1176,6 @@ union
 unison
 united
 unity
-unlock
 unlocking
 unpredictable
 unrestricted
@@ -1201,7 +1190,6 @@ variation
 vast
 velvet
 velvety
-versatile
 vertebral
 vertical
 vibrating
@@ -1220,6 +1208,8 @@ volcanic
 volume
 voluminous
 vortex
+visible
+invisible
 vulnerable
 walk
 wall
@@ -1248,8 +1238,6 @@ wiggly
 wild
 wobbly
 worm-like
-wrap
-wrapping
 wrist
 yes
 yield
