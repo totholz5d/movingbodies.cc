@@ -27,6 +27,7 @@ agitated
 air
 alert
 aligned
+all
 all encompassing
 almost
 alteration
@@ -55,6 +56,7 @@ assimilation
 associating
 association
 asymmetric
+at once
 attached
 attachment
 attention
@@ -98,11 +100,13 @@ border
 bounce
 bounciness
 bouncing
+boundary
 boundless
 bovine
 braid
 braiding
 brave
+breach
 break
 breaking
 breath
@@ -110,6 +114,7 @@ breathing
 bridge
 bright
 broad
+broken
 brushing
 bubble
 bubbling
@@ -143,8 +148,6 @@ chance
 change
 changing
 channel
-claiming
-reclaiming
 channeling
 chaos
 chest
@@ -152,6 +155,10 @@ choreography
 circle
 circular
 circulation
+claiming
+clap
+clapping
+clash
 clear
 clinging
 closed
@@ -194,6 +201,7 @@ connected
 connecting
 connection
 constant
+context
 contiguous
 continuous
 contortion
@@ -220,8 +228,10 @@ courageous
 cover
 covering
 cozy
-crack
+crackled
+crakling
 cramped
+crash
 crawl
 crawling
 creature
@@ -252,7 +262,6 @@ decay
 decline
 declining
 decomposition
-plop
 deconstructing
 deconstruction
 dedication
@@ -386,6 +395,8 @@ escape
 escaping
 essence
 essential
+everything
+everywhere
 evolution
 excavating
 excess
@@ -407,6 +418,7 @@ exterior
 face
 fail
 failing
+faint
 faithful
 fall
 falling
@@ -473,6 +485,7 @@ furtive
 fusion
 future
 fuzzy
+gap
 gate
 gelatinous
 generous
@@ -587,6 +600,8 @@ intermittent
 interpretation
 intersecting
 intersection
+interstice
+interstitial
 intertwining
 interweaving
 intimate
@@ -594,6 +609,7 @@ inverse
 inversion
 invertebrate
 inverted
+invisible
 inwards
 irrational
 jaw
@@ -604,11 +620,10 @@ journey
 joyful
 juicy
 jumping
-faint
 juxtaposed
 kaleidoscopic
-context
 knees
+knocking
 knot
 laborious
 labyrinthine
@@ -630,6 +645,7 @@ ligament
 light
 lightness
 limbs
+liminal
 limit
 line
 linear
@@ -799,14 +815,11 @@ placid
 plain
 play
 playful
-everything
-everywhere
-at once
-all
 playfulness
 playing
 pleasant
 pleasing
+plop
 pod
 pointed
 pointing
@@ -846,6 +859,8 @@ pulling
 pulsating
 pulsation
 pulse
+punch
+punching
 pure
 purification
 purposeful
@@ -871,6 +886,7 @@ reactive
 receiving
 receptive
 reckless
+reclaiming
 recombination
 recombining
 recursive
@@ -911,6 +927,7 @@ rhythm
 rhythmic
 ribs
 ridiculous
+rift
 rigid
 ring
 rippling
@@ -997,8 +1014,10 @@ slug
 sluggish
 small
 smart
+smashing
 smooth
 smoothing
+snap
 soaked
 soaking
 soft
@@ -1021,6 +1040,8 @@ spineless
 spinning
 spiral
 spirit
+split
+splitting
 sponge
 sponge-like
 sporadic
@@ -1092,6 +1113,7 @@ tactile
 tangential
 tangled
 tango
+tapping
 telling
 tenacious
 tender
@@ -1106,6 +1128,7 @@ thick
 thin
 thorax
 thread
+threshold
 throw
 throwing
 tide
@@ -1199,6 +1222,7 @@ virtuosity
 visceral
 viscosity
 viscous
+visible
 vision
 visualization
 visualizing
@@ -1208,8 +1232,6 @@ volcanic
 volume
 voluminous
 vortex
-visible
-invisible
 vulnerable
 walk
 wall
