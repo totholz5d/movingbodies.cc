@@ -27,7 +27,6 @@ agile
 agility
 agitated
 air
-alert
 aligned
 all
 all encompassing
@@ -48,7 +47,6 @@ appearance
 aquatic
 arc
 architecture
-ardent
 arms
 arrival
 articulating
@@ -104,7 +102,6 @@ bouncing
 boundary
 boundless
 bovine
-braid
 braiding
 brave
 breach
@@ -186,10 +183,8 @@ composing
 composition
 compressed
 compressing
-concealed
 concentration
 concentric
-condensation
 confidence
 confident
 confused
@@ -207,7 +202,6 @@ contracting
 contrast
 control
 controlled
-controlling
 convergent
 converging
 coordinated
@@ -227,7 +221,6 @@ covering
 cozy
 crackled
 crakling
-cramped
 crash
 crawl
 crawling
@@ -264,7 +257,7 @@ deconstruction
 dedication
 deep
 deepening
-defined
+definition
 dispatching
 deformation
 deformed
@@ -323,7 +316,6 @@ distortion
 distributed
 distribution
 divergent
-diverging
 diverse
 diversity
 diving
@@ -367,7 +359,6 @@ elegant
 elementary
 elliptical
 elusive
-embedded
 emergence
 emergent
 emptiness
@@ -442,7 +433,6 @@ fire
 firm
 fission
 flamenco
-flattering
 flesh
 fleshy
 flexibility
@@ -472,7 +462,7 @@ fountain
 fractured
 fragile
 fragmentation
-fragmenting
+fragments
 frame
 friable
 friction
@@ -566,7 +556,6 @@ impulse
 in-depth
 inactivity
 inadequate
-incandescence
 incandescent
 inclination
 inclining
@@ -723,7 +712,6 @@ mutation
 mute
 mysterious
 mystery
-mystifing
 nail
 naked
 narrow
@@ -809,11 +797,12 @@ perpetual
 perseverance
 persistent
 phlegmatic
+phrase
 phrasing
 pivot
 pivoting
 pixelated
-placid
+placidity
 plain
 play
 playful
@@ -832,11 +821,9 @@ polishing
 polymorphic
 scale
 pop
-popping
 porous
 portal
 positive
-pouring
 power
 powerlessness
 precarious
@@ -855,7 +842,6 @@ probing
 progressive
 propelling
 propulsion
-propulsive
 providing
 proximity
 pubis
@@ -901,6 +887,7 @@ reflecting
 reflection
 regeneration
 regular
+regularity
 reiteration
 relationship
 relaxed
@@ -908,9 +895,7 @@ release
 releasing
 reliable
 relief
-relieving
 remote
-repeating
 repelling
 repetition
 repetitions
@@ -919,7 +904,6 @@ reptilian
 research
 resilience
 resilient
-resolved
 rest
 resting
 restless
@@ -943,7 +927,6 @@ rotation
 rough
 roughness
 round
-rounded
 rub
 rubbery
 rubbing
@@ -964,7 +947,6 @@ self
 semi
 sensation
 sensational
-senseless
 sensitive
 sensory
 sensual
@@ -996,11 +978,9 @@ sinuous
 sinusoidal
 skeleton
 sketch
-sketching
 skin
 skull
 sleek
-slender
 slide
 sliding
 slight
@@ -1085,7 +1065,6 @@ supernatural
 supple
 support
 supreme
-sure
 surprise
 surprising
 surround
@@ -1110,7 +1089,6 @@ syrupy
 systematic
 tactile
 tangential
-tangled
 tango
 tapping
 telling
@@ -1141,7 +1119,6 @@ together
 tonicity
 too much
 torsion
-tortuous
 total
 touch
 touching
@@ -1181,6 +1158,8 @@ uncertain
 unconditional
 uncontrolled
 unconventional
+container
+contained
 uncurling
 underwater
 undulating
@@ -1240,7 +1219,6 @@ wave
 wavelike
 weak
 weaving
-web
 weight
 weightless
 weird
