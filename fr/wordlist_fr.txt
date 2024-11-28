@@ -6,6 +6,7 @@ absolument
 absorption
 abstraite
 absurde
+abyssale
 accent
 accident
 accidentelle
@@ -20,11 +21,6 @@ adhérente
 adhésif
 adjacent
 affaissement
-inhalation
-expiration
-expirer
-inspiration
-inspirer
 agile
 agilité
 agité
@@ -47,16 +43,15 @@ ancrage
 ancrer
 angulaire
 animée
-incompréhensible
 apathique
 apparition
 appel
 appliquée
 approfondir
+poche
+appropriation
 appui
 aquatique
-se cacher
-dissimuler
 aqueux
 arc
 architecture
@@ -178,6 +173,7 @@ confusion
 connectée
 connexion
 constante
+contexte
 contigu‧e
 continu‧e
 contorsion
@@ -239,6 +235,7 @@ discontinue
 discret
 dispersion
 dispersé‧e
+dissimuler
 dissociation
 dissonant
 dissoudre
@@ -269,6 +266,7 @@ déconnectée
 déconstruction
 déconstruire
 décontractée
+décortiquer
 découvrir
 défini
 déformation
@@ -278,6 +276,7 @@ dégoulinant
 délicat
 délicatesse
 délimitée
+démesuré
 départ
 déposer
 dériver
@@ -315,6 +314,7 @@ enroulement
 ensemble
 ensuite
 envelopper
+envisageable
 envoûtant
 errance
 errer
@@ -329,6 +329,8 @@ excès
 exigu
 expansif
 expansion
+expiration
+expirer
 exploration
 explorer
 explosion
@@ -440,10 +442,12 @@ imminent
 immobile
 immobilité
 impact
+impalpable
 improbable
 imprévisible
 impuissance
 impulsion
+paysage
 impénétrable
 inactivité
 inadapté
@@ -454,6 +458,7 @@ inclinaison
 incliner
 inclusif
 incompatible
+incompréhensible
 inconditionnelle
 incontrôlé
 individuelle
@@ -462,12 +467,15 @@ infini
 infinitésimale
 inflexible
 inhabituelle
+inhalation
 ininterrompue
 initiation
 initier
 insaisissable
 insensée
 insertion
+inspiration
+inspirer
 instable
 instantané
 insuffisant
@@ -492,7 +500,10 @@ inutile
 inverse
 inversée
 invertébré
+invisible
 irrationnelle
+irrégulier
+irrégularité
 jamais
 jambes
 jazz
@@ -521,6 +532,7 @@ liquide
 lire
 lisse
 lisser
+lié
 loin
 lointain
 lointaine
@@ -532,7 +544,8 @@ lumière
 lunatique
 luxueux
 luxuriant
-lâche
+origami
+feuille
 léger
 légèreté
 léthargique
@@ -575,8 +588,8 @@ mouillée
 mouvement
 muet
 multi-fonction
-multiplier
 multiplication
+multiplier
 muqueuses
 murmure
 murmurer
@@ -689,6 +702,7 @@ plus
 poids
 poignet
 poil
+point
 pointue
 poitrine
 poli
@@ -706,6 +720,8 @@ pressant
 presser
 primordial
 proche
+profond
+profondeur
 profondeurs
 progressif
 promenade
@@ -721,11 +737,6 @@ précision
 présence
 présent
 prévisible
-envisageable
-se réapproprier
-s'approprier
-appropriation
-réappropriation
 pubis
 puissance
 pulsation
@@ -739,10 +750,6 @@ périphérique
 quart
 quelconque
 question
-visible
-invisible
-visibilité
-décortiquer
 questionner
 quête
 racines
@@ -760,10 +767,10 @@ rare
 rayon
 rayonner
 rebond
-recevoir
 rebondir
 rebondissant
 rebondissement
+recevoir
 recherche
 rechercher
 recombinaison
@@ -779,6 +786,7 @@ relier
 remplacer
 remuement
 remuer
+repartir
 repos
 repousser
 reptilien
@@ -793,6 +801,7 @@ robuste
 rond
 ronde
 rotation
+rouages
 roulante
 roulement
 rouler
@@ -804,6 +813,7 @@ rythme
 rythmique
 réactif
 réaction
+réappropriation
 réceptif
 réduction
 réduire
@@ -811,6 +821,7 @@ réflexion
 régulière
 régénération
 réitérer
+répartition 
 répéter
 répétitions
 réseau
@@ -820,6 +831,7 @@ résolue
 rétractable
 réussir
 s'accrocher
+s'approprier
 saccade
 saccadée
 sacrum
@@ -831,8 +843,10 @@ sauter
 sauvage
 scandaleux
 scintillant
+se cacher
 se déplier
 se dérouler
+se réapproprier
 se répandre
 se tortiller
 sec
@@ -990,8 +1004,8 @@ téméraire
 tête
 uni
 uniforme
-unisson
 union
+unisson
 unité
 urgente
 vacillant
@@ -1018,6 +1032,8 @@ virtuosité
 visage
 viscosité
 viscéral
+visibilité
+visible
 vision
 visqueux
 visualisation
@@ -1051,8 +1067,6 @@ zigzaguer
 élégante
 élémentaire
 émergence
-rouages
-contexte
 émergent
 énergie
 énergique

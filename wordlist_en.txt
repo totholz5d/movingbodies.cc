@@ -1,5 +1,6 @@
-absence
+absence	
 absolute
+absolutely
 absorption
 abstract
 absurd
@@ -52,7 +53,6 @@ arms
 arrival
 articulating
 ascending
-assiduous
 assimilation
 associating
 association
@@ -95,6 +95,7 @@ body
 bold
 boldness
 boneless
+one
 bones
 border
 bounce
@@ -122,13 +123,11 @@ bumping
 burning
 bust
 busy
-buzz
 buzzing
 call
 calling
 calm
 capricious
-capsule
 captivating
 care
 caress
@@ -147,7 +146,6 @@ chain
 chance
 change
 changing
-channel
 channeling
 chaos
 chest
@@ -160,7 +158,6 @@ clap
 clapping
 clash
 clear
-clinging
 closed
 closing
 cloud
@@ -268,12 +265,16 @@ dedication
 deep
 deepening
 defined
+dispatching
 deformation
 deformed
 delay
 deliberate
 delicacy
 delicate
+link
+linked
+linking
 delineated
 dense
 departure
@@ -289,12 +290,12 @@ determined
 devotion
 diagonal
 diaphragm
-diffusing
 diffusion
 digesting
 digression
 dimension
 direct
+emitting
 directing
 direction
 discharge
@@ -306,7 +307,6 @@ discovering
 discovery
 discrete
 disintegration
-disjointed
 disordered
 disordering
 dispersed
@@ -361,6 +361,8 @@ effortless
 elastic
 electric
 elegance
+between
+among
 elegant
 elementary
 elliptical
@@ -505,7 +507,6 @@ grainy
 granular
 grasping
 gravity
-grip
 gripping
 groove
 groping
@@ -520,7 +521,6 @@ hands
 hard
 harmonious
 harmony
-haunted
 haunting
 hazardous
 head
@@ -557,10 +557,11 @@ imitation
 imminent
 immobile
 immobility
+landscape
 impact
 impenetrable
+impalpable
 imprint
-improbable
 impulse
 in-depth
 inactivity
@@ -619,7 +620,7 @@ jazz
 jelly
 joints
 journey
-joyful
+joy
 juicy
 jumping
 juxtaposed
@@ -678,7 +679,6 @@ mastery
 maybe
 me
 meanders
-measure
 measured
 measuring
 meaty
@@ -822,12 +822,15 @@ playing
 pleasant
 pleasing
 plop
-pod
-pointed
+point
 pointing
+tiny
 polished
+pocket
+miniature
 polishing
 polymorphic
+scale
 pop
 popping
 porous
@@ -841,11 +844,11 @@ precaution
 precious
 precise
 precision
-predictable
 presence
 present
 pressing
 primal
+profond
 primordial
 probe
 probing
@@ -862,7 +865,6 @@ pulsating
 pulsation
 pulse
 punch
-punching
 pure
 purification
 purposeful
@@ -889,9 +891,7 @@ receptive
 reckless
 reclaiming
 recombination
-recombining
 recursive
-reduced
 reducing
 reduction
 refined
@@ -958,7 +958,6 @@ scattered
 search
 searching
 secret
-secretive
 seeking
 segment
 self
@@ -1068,7 +1067,6 @@ streaming
 stretch
 stretching
 stretchy
-striking
 string
 strong
 structure
@@ -1162,7 +1160,6 @@ transparency
 transparent
 transport
 transporting
-trasfering
 traveling
 trembling
 triangle
@@ -1237,7 +1234,6 @@ vulnerable
 walk
 wall
 waltz
-wandering
 water
 watery
 wave
@@ -1263,5 +1259,4 @@ wobbly
 worm-like
 wrist
 yes
-yield
 zigzag
