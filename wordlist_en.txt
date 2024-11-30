@@ -171,7 +171,6 @@ combination
 combustion
 comfortable
 comfy
-comment
 commenting
 commitment
 compact
@@ -268,7 +267,6 @@ delicate
 link
 linked
 linking
-delineated
 dense
 departure
 depths
@@ -277,7 +275,6 @@ descent
 desire
 desiring
 detached
-detaching
 detachment
 determined
 devotion
@@ -292,9 +289,7 @@ emitting
 directing
 direction
 discharge
-discharging
 disconnected
-disconnecting
 discontinuous
 discovering
 discovery
@@ -664,7 +659,6 @@ maintenance
 malleable
 map
 mapping
-mastery
 maybe
 me
 meanders
@@ -761,6 +755,7 @@ orbiting
 organic
 organized
 organs
+orienting
 orientation
 orthogonal
 oscillating
@@ -780,9 +775,7 @@ passage
 passionate
 passive
 passivity
-pasty
 path
-pathway
 patient
 pause
 peace
@@ -800,7 +793,6 @@ phlegmatic
 phrase
 phrasing
 pivot
-pivoting
 pixelated
 placidity
 plain
@@ -850,7 +842,6 @@ pulling
 pulsating
 pulsation
 pulse
-punch
 pure
 purification
 purposeful
@@ -1051,8 +1042,9 @@ string
 strong
 structure
 stubborn
-subjective
 subtle
+subject
+object
 succeeding
 success
 succession
@@ -1137,7 +1129,6 @@ transparency
 transparent
 transport
 transporting
-traveling
 trembling
 triangle
 tribe
