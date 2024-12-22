@@ -13,7 +13,6 @@ accidental
 accidents
 accumulating
 accumulation
-acid
 adaptation
 adherent
 adhesive
@@ -29,7 +28,7 @@ agitated
 air
 aligned
 all
-all encompassing
+holistic
 almost
 alteration
 always
@@ -67,7 +66,6 @@ autonomous
 autonomy
 axial
 axis
-back
 backbone
 backward
 baggy
@@ -118,7 +116,6 @@ bubble
 bubbling
 bumping
 burning
-bust
 busy
 buzzing
 call
@@ -178,7 +175,6 @@ compass
 complete
 complex
 complexity
-composing
 composition
 compressed
 compressing
@@ -221,9 +217,9 @@ cozy
 crackled
 crakling
 crash
-crawl
 crawling
 creature
+self-referential
 creeping
 crisp
 crispy
@@ -276,7 +272,6 @@ desire
 desiring
 detached
 detachment
-determined
 devotion
 diagonal
 diaphragm
@@ -369,7 +364,6 @@ energetic
 energy
 engagement
 enigmatic
-enormous
 enough
 ensemble
 entangled
@@ -412,7 +406,6 @@ fall
 falling
 far
 far-reaching
-fascinating
 fast
 feeling
 feet
@@ -449,9 +442,11 @@ foggy
 folding
 force
 form
+freakout
 formal
 formless
 forward
+tail
 fossilized
 fountain
 fractured
@@ -569,8 +564,6 @@ initiate
 initiation
 inner
 insane
-inserting
-insertion
 instantaneous
 insufficient
 integrated
@@ -809,7 +802,6 @@ tiny
 polished
 pocket
 miniature
-polishing
 polymorphic
 scale
 pop
@@ -846,7 +838,6 @@ pure
 purification
 purposeful
 push
-pushing
 quest
 question
 quick
@@ -896,7 +887,6 @@ research
 resilience
 resilient
 rest
-resting
 restless
 retractable
 rhythm
@@ -1134,7 +1124,6 @@ triangle
 tribe
 tube
 tubular
-tumult
 tumultuous
 tuning
 tunnel
@@ -1143,7 +1132,7 @@ turning
 twist
 twisted
 twisting
-unadorned
+uncluttered
 unbalanced
 uncertain
 unconditional
@@ -1169,7 +1158,6 @@ united
 unity
 unlocking
 unpredictable
-unrestricted
 unstable
 unusual
 upward
