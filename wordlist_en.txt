@@ -123,8 +123,6 @@ bubbling
 burning
 busy
 buzzing
-call
-calling
 calm
 capricious
 captivating
@@ -164,7 +162,6 @@ cloud-like
 cloudy
 cluster
 coil
-coiling
 collapse
 collapsing
 collecting
@@ -225,7 +222,7 @@ counting
 courage
 courageous
 cover
-covering
+covered
 cozy
 crackled
 crakling
@@ -382,11 +379,9 @@ entry
 entwining
 equanimity
 equanimous
-equitable
 equity
 erosion
 erotic
-escape
 escaping
 essence
 essential
@@ -426,7 +421,6 @@ feet
 felt
 fermentation
 fierce
-figure
 filter
 filtering
 fine
@@ -505,7 +499,7 @@ granular
 grasping
 gratitude
 gravity
-gripping
+grip
 groove
 groping
 ground
@@ -581,7 +575,8 @@ inflexible
 ingredients
 inhabiting
 inhaling
-initiate
+initiating
+Initiative
 initiation
 inner
 insane
@@ -719,9 +714,9 @@ mood
 more
 mouth
 movement
-multi
 multi-function
 multiply
+multiplication
 muscle
 muscular
 mutation
@@ -731,6 +726,8 @@ mystery
 nail
 naked
 narrow
+narration
+narrative
 natural
 navigating
 navigation
@@ -856,10 +853,9 @@ present
 pressing
 primal
 primordial
-principle
 probe
 probing
-profond
+profound
 progressive
 propelling
 propulsion
@@ -924,7 +920,6 @@ remote
 repelling
 repetition
 repetitions
-replacing
 reptilian
 research
 resilience
@@ -968,7 +963,6 @@ scattered
 search
 searching
 secret
-seed
 seedling
 seeking
 segment
@@ -1049,7 +1043,6 @@ spine
 spineless
 spinning
 spiral
-spirit
 split
 splitting
 sponge
@@ -1070,6 +1063,8 @@ sticky
 stiff
 still
 stillness
+story
+strory-telling
 strange
 stratified
 stream
@@ -1084,7 +1079,6 @@ structurind
 stubborn
 subject
 subtle
-succeeding
 success
 succession
 sudden
@@ -1113,17 +1107,17 @@ swollen
 symbiosis
 symmetric
 symphony
-synapse
+synaptic
 synchronized
 synthesis
 syrupy
 systematic
 tactile
 tail
+tale
 tangential
 tango
 tapping
-telling
 tenacious
 tender
 tenderness
@@ -1172,7 +1166,6 @@ transport
 transporting
 trembling
 triangle
-tribe
 trust
 trusting
 tube
