@@ -83,7 +83,6 @@ basic
 basin
 basis
 beat
-before
 beginning
 behind
 being
@@ -164,7 +163,6 @@ cluster
 coil
 collapse
 collapsing
-collecting
 collective
 color
 column
@@ -730,7 +728,6 @@ narration
 narrative
 natural
 navigating
-navigation
 near
 nearby
 nebulous
@@ -1131,7 +1128,6 @@ thin
 thorax
 thread
 threshold
-throw
 throwing
 tide
 tight
