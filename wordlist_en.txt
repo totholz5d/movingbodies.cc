@@ -133,7 +133,6 @@ carrying
 cascade
 cascading
 cautious
-cave
 cellular
 center
 central
@@ -181,10 +180,10 @@ composition
 compost
 composting
 compressed
+tiramisu
 compressing
 concentration
 concentric
-confidence
 confident
 confused
 confusion
@@ -216,7 +215,6 @@ core
 corrosion
 cosmic
 count
-counting
 courage
 courageous
 cover
@@ -476,7 +474,6 @@ fusion
 future
 fuzzy
 gap
-gate
 gelatinous
 generosity
 generous
@@ -682,6 +679,7 @@ melancholic
 melancholy
 mellow
 melting
+embryonic
 membrane
 memory
 messiness
@@ -699,6 +697,7 @@ miniature
 minimal
 minimalist
 minimum
+larval
 mirror
 misty
 modification
@@ -1071,7 +1070,6 @@ string
 strong
 structure
 structured
-structurind
 stubborn
 subject
 subtle

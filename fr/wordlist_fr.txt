@@ -21,6 +21,8 @@ accueillir
 accumulation
 accumuler
 accélération
+en accéléré
+au ralenti
 acide
 adhérente
 adhésif
@@ -89,9 +91,12 @@ balancement
 balancer
 balle
 ballet
+larvaire
 bas
 basique
+tiramisu
 bassin
+en biais
 battement
 bavard
 baveux
@@ -166,6 +171,7 @@ complexité
 composer
 composition
 compresser
+ralentir
 comprimer
 compter
 concentration
@@ -313,6 +319,7 @@ enchaîner
 enchevêtrement
 enchevêtrée
 encore
+bancal
 energie
 enfermé
 engagement
@@ -449,6 +456,7 @@ imiter
 imminent
 immobile
 immobilité
+pré-existant
 impact
 impalpable
 improbable
@@ -839,6 +847,7 @@ rétractable
 réussir
 s'accrocher
 s'approprier
+s'éparpiller
 saccade
 saccadée
 sacrum
