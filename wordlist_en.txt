@@ -20,6 +20,7 @@ adaptation
 adherent
 adhesive
 adjacent
+solo
 adventure
 aerial
 after
@@ -80,7 +81,6 @@ bang
 bare
 base
 basic
-basin
 basis
 beat
 beginning
@@ -105,7 +105,6 @@ bouncing
 boundary
 boundless
 bovine
-braiding
 brave
 breach
 break
@@ -121,7 +120,7 @@ bubble
 bubbling
 burning
 busy
-buzzing
+buzz
 calm
 capricious
 captivating
@@ -136,7 +135,6 @@ cautious
 cellular
 center
 central
-cha-cha
 chain
 chance
 change
@@ -166,13 +164,11 @@ collective
 color
 column
 combination
-combustion
 comfortable
 comfy
 commenting
 commitment
 compact
-compass
 complete
 complex
 complexity
@@ -183,7 +179,6 @@ compressed
 tiramisu
 compressing
 concentration
-concentric
 confident
 confused
 confusion
@@ -192,6 +187,7 @@ connecting
 connection
 constant
 contained
+containing
 container
 context
 contiguous
@@ -204,8 +200,6 @@ contradictory
 contrast
 control
 controlled
-convergent
-converging
 coordinated
 coordinates
 coordinating
@@ -295,7 +289,6 @@ discovery
 discrete
 disintegration
 disordered
-dispatching
 dispersed
 dispersing
 dispersion
@@ -313,13 +306,10 @@ divergent
 diverse
 diversity
 diving
-docile
 dominant
 dosage
 dose
 downward
-draft
-drafting
 drag
 dragging
 dreamlike
@@ -352,11 +342,8 @@ elliptical
 elusive
 emergence
 emergent
-emitting
 emptiness
 empty
-encapsulating 
-encapsulation
 enchanting
 enclosed
 end
@@ -372,10 +359,9 @@ entangled
 entanglement
 entering
 entry
-entwining
+entwined
 equanimity
 equanimous
-equity
 erosion
 erotic
 escaping
@@ -384,7 +370,6 @@ essential
 everything
 everywhere
 evolution
-excavating
 excess
 excessive
 exhaling
@@ -423,13 +408,11 @@ fine
 fingers
 fire
 firm
-fission
-flamenco
 flesh
 fleshy
 flexibility
 flexible
-flexion
+flexing
 flip
 flipping
 floating
@@ -459,7 +442,6 @@ fragmentation
 fragments
 frame
 freakout
-friable
 friction
 frictionless
 friendly
@@ -483,6 +465,8 @@ geometric
 germination
 gesture
 gigantic
+giving
+gift
 gliding
 glutinous
 grace
@@ -534,7 +518,7 @@ honey-like
 hop
 horizon
 horizontal
-hospitable
+hospitality
 hot
 hovering
 hub
@@ -542,7 +526,6 @@ humming
 hybrid
 hyper
 hypnotic
-ignition
 imbalance
 imitation
 imminent
@@ -556,9 +539,7 @@ impulse
 in-depth
 inactivity
 inadequate
-incandescent
 inclination
-inclining
 inclusive
 incompatible
 indeterminate
@@ -568,7 +549,6 @@ infinitesimal
 inflated
 inflexible
 ingredients
-inhabiting
 inhaling
 initiating
 Initiative
@@ -603,6 +583,7 @@ invertebrate
 inverted
 invisible
 inwards
+isolated
 irrational
 jaw
 jazz
@@ -634,7 +615,6 @@ liberating
 liberation
 lift
 lifting
-ligament
 light
 lightness
 limbs
@@ -670,7 +650,6 @@ map
 mapping
 maybe
 me
-meanders
 measured
 measuring
 meaty
@@ -699,7 +678,6 @@ minimalist
 minimum
 larval
 mirror
-misty
 modification
 moist
 molecular
@@ -723,7 +701,6 @@ mystery
 nail
 naked
 narrow
-narration
 narrative
 natural
 navigating
@@ -743,7 +720,6 @@ no
 node
 noise
 noisy
-non-binarity
 non-binary
 non-linear
 non-linearity
@@ -752,11 +728,9 @@ nuances
 nucleus
 object
 objective
-oblique
 obscure
 obsession
 obvious
-occasion
 occasional
 oceanic
 oddity
@@ -774,8 +748,6 @@ organic
 organized
 organs
 orientation
-orienting
-orthogonal
 oscillating
 oscillation
 outer
@@ -783,6 +755,7 @@ outrageous
 outwards
 overflow
 overlapping
+overlapped
 oversized
 paradox
 paradoxical
@@ -842,7 +815,6 @@ precaution
 precious
 precise
 precision
-premise
 presence
 present
 pressing
@@ -852,8 +824,6 @@ probe
 probing
 profound
 progressive
-propelling
-propulsion
 providing
 proximity
 pubis
@@ -868,7 +838,6 @@ purposeful
 push
 quality
 quantity
-quest
 question
 quick
 quiet
@@ -895,7 +864,6 @@ recursive
 reducing
 reduction
 refined
-refinement
 refining
 reflecting
 reflection
@@ -933,7 +901,6 @@ rigid
 ring
 rippling
 risky
-roaming
 robust
 roll
 rolling
@@ -962,8 +929,8 @@ seedling
 seeking
 segment
 self
-self-referential
 semi
+sending
 sensation
 sensational
 sensitive
@@ -973,7 +940,6 @@ sensuous
 sequence
 serene
 serious
-serpentine
 shadow
 shake
 shaking
@@ -993,8 +959,6 @@ simple
 simplicity
 simultaneous
 sincere
-sinuous
-sinusoidal
 skeleton
 sketch
 skin
@@ -1006,7 +970,7 @@ slight
 slime
 slimy
 slippery
-slope
+sloppy
 slow
 slowness
 slug
@@ -1023,7 +987,6 @@ soft
 softness
 solid
 solidity
-solitary
 source
 space
 spacious
@@ -1051,7 +1014,6 @@ squeezing
 stability
 stable
 standing
-stationary
 steady
 sternum
 sticky
@@ -1073,13 +1035,11 @@ structured
 stubborn
 subject
 subtle
-success
 succession
 sudden
 sufficient
 super
 superficial
-superimposed
 supernatural
 supple
 support
@@ -1101,15 +1061,12 @@ swollen
 symbiosis
 symmetric
 symphony
-synaptic
 synchronized
 synthesis
 syrupy
 systematic
 tactile
 tail
-tale
-tangential
 tango
 tapping
 tenacious
@@ -1129,9 +1086,7 @@ threshold
 throwing
 tide
 tight
-tighten
 time
-tingling
 tiny
 tireless
 tissue
@@ -1155,12 +1110,10 @@ translucent
 transmutation
 transparency
 transparent
-transport
 transporting
 trembling
 triangle
 trust
-trusting
 tube
 tubular
 tumultuous
@@ -1189,7 +1142,6 @@ unfolding
 unhindered
 unhurried
 uniform
-unintelligible
 uninterrupted
 union
 unison
