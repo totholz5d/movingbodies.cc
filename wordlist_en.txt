@@ -12,8 +12,6 @@ accent
 acceptance
 accidental
 accidents
-accountability
-accountable
 accumulating
 accumulation
 adaptation
