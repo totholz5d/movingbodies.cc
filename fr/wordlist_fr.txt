@@ -11,6 +11,7 @@ accent
 accident
 accidentelle
 accidenté
+protéiforme
 accroupi
 modérée
 modération

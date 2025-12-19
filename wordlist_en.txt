@@ -15,6 +15,7 @@ accidents
 accumulating
 accumulation
 adaptation
+more-than-human
 adherent
 adhesive
 adjacent
@@ -428,7 +429,6 @@ foggy
 folding
 force
 form
-formal
 formless
 forward
 fossilized
@@ -647,7 +647,7 @@ malleable
 map
 mapping
 maybe
-me
+myself
 measured
 measuring
 meaty
@@ -667,7 +667,6 @@ methodical
 meticulous
 micro
 microscopic
-mind
 mindful
 mindfulness
 miniature
@@ -709,7 +708,6 @@ neck
 negotiating
 negotiation
 neighbor
-nerves
 nest
 nestled
 network
@@ -771,7 +769,6 @@ peace
 peaceful
 peeling
 pelvis
-peripheral
 periphery
 perpendicular
 perpetual
@@ -817,7 +814,6 @@ presence
 present
 pressing
 primal
-primordial
 probe
 probing
 profound
@@ -863,7 +859,6 @@ reducing
 reduction
 refined
 refining
-reflecting
 reflection
 regeneration
 regular
@@ -1129,7 +1124,6 @@ uncluttered
 unconditional
 uncontrolled
 unconventional
-uncurling
 understanding
 underwater
 undulating
@@ -1184,7 +1178,6 @@ walk
 wall
 waltz
 water
-watery
 wave
 wavelike
 weak
